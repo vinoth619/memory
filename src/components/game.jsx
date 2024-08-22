@@ -43,7 +43,7 @@ import { DialogActions, DialogContent } from "@mui/material";
     const hard=(()=>{
       new Audio(sounds).play()
       urlupdate(`https://pixabay.com/api/?key=${API_KEY}&q=${encodeURIComponent(
-        "ai generated small dragons gif"
+        "ai generated small dragons"
       )}&per_page=50`)
       setScore(0);
       setcount(0)

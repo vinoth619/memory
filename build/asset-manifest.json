@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mem-app4/static/css/main.d208f315.css",
+    "main.js": "/mem-app4/static/js/main.c59689f4.js",
+    "static/js/453.2d263cf8.chunk.js": "/mem-app4/static/js/453.2d263cf8.chunk.js",
+    "static/media/Monkeys-Spinning-Monkeys(chosic.com).mp3": "/mem-app4/static/media/Monkeys-Spinning-Monkeys(chosic.com).fdad0cdd95c84c4589ea.mp3",
+    "static/media/congratulations-deep-voice-172193.mp3": "/mem-app4/static/media/congratulations-deep-voice-172193.0b38e48bc3ab0cf472f0.mp3",
+    "static/media/goodresult-82807.mp3": "/mem-app4/static/media/goodresult-82807.ceeba6a4a8b58fc003c5.mp3",
+    "static/media/game-over-arcade-6435.mp3": "/mem-app4/static/media/game-over-arcade-6435.21c74c34f50a8ecedde0.mp3",
+    "static/media/sound-1-167181.mp3": "/mem-app4/static/media/sound-1-167181.25a78772178057377e00.mp3",
+    "index.html": "/mem-app4/index.html",
+    "main.d208f315.css.map": "/mem-app4/static/css/main.d208f315.css.map",
+    "main.c59689f4.js.map": "/mem-app4/static/js/main.c59689f4.js.map",
+    "453.2d263cf8.chunk.js.map": "/mem-app4/static/js/453.2d263cf8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d208f315.css",
+    "static/js/main.c59689f4.js"
+  ]
+}
